@@ -10,13 +10,6 @@ Criar um sistema de recrutamento inteligente para:
 
 - **Prever o desempenho futuro**: Usar dados para identificar os candidatos com maior potencial de sucesso na função.
 
-Com certeza! Simplificar textos técnicos é ótimo para tornar o projeto compreensível para um público mais amplo.
-
-Aqui estão duas opções, mantendo a formatação original.
-
----
-### **Opção 1 (Foco na Clareza e Simplicidade)**
-
 ## 🧠 Como a Inteligência Artificial é Usada
 
 ### 1. Entendendo os Currículos (Processamento de Linguagem Natural)
